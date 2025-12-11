@@ -37,7 +37,6 @@ header {
   margin-top: 50px;
   display: flex;
   list-style: none;
-  
 } 
 
 nav ul a{
@@ -140,7 +139,7 @@ figcaption {
 
 
 footer {
-  border-top: 1px solid rgba(0,0,0,0.1);
+  border-top: 1px solid rgba(0, 0, 0, 0.918);
   padding: 20px;
   display: flex;
   justify-content: space-between;
